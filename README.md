@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 <h1 align="center">
-    Corona-Warn-App Server
+    Corona-Warn-Appored Server
 </h1>
 
 <p align="center">
