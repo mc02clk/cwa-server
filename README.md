@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 <h1 align="center">
-    Corona-Warn-correct Server
+    Corona-Warn- Server
 </h1>
 
 <p align="center">
