@@ -12,7 +12,7 @@
     <a href="https://github.com/corona-warn-app/cwa-server/blob/HEAD/LICENSE" title="License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat"></a>
     <a href="https://api.reuse.software/info/github.com/corona-warn-app/cwa-server" title="REUSE Status"><img src="https://api.reuse.software/badge/github.com/corona-warn-app/cwa-server"></a>
 </p>
-miau
+
 <p align="center">
   <a href="#development">Development</a> •
   <a href="#service-apis">Service APIs</a> •
